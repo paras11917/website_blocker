@@ -1,7 +1,7 @@
 {
     "manifest_version": 3,
-    "name": "Porn blocker",
-    "description": "Porn blocker is an extension which will not allow you to watch porn.",
+    "name": "Website Blocker",
+    "description": "Website blocker is an extension which allow you to block some websites .",
     "version": "1.0",
     "icons": {
       "128": "./banner.png",
